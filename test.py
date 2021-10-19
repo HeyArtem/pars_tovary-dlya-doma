@@ -230,6 +230,7 @@ def main():
     get_data2()
     # get_data_selenium()
 
+# тестовые изменения для git
 
 if __name__ == '__main__':
     main()
